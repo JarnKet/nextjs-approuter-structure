@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from "react";
 
+import Button from "@/app/(core)/_components/Button";
+
 type BlogDetail = {
 	title: string;
 };
